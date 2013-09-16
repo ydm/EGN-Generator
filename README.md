@@ -27,5 +27,5 @@ EGN-Generator
 ```shell
 $ git clone https://github.com/ydm/EGN-Generator  # Клонирате хранилището
 $ ./EGN-Generator/egn.py                          # Пускате програмата
-$ 8809168724                                      # Това е генерираното ЕГН
+$ 6101047500                                      # Това е генерираното ЕГН
 ```
